@@ -30,4 +30,5 @@ The game challenges players to remember and repeat an increasing sequence of col
 3. Repeat the sequence by clicking the colored buttons.
 4. Each level adds a new step to the sequence.
 5. If you click the wrong button, the game ends.
-<img width="1918" height="967" alt="simon" src="https://github.com/user-attachments/assets/60a6055a-cb1e-4a2c-a0d8-4ff88e6b729b" />
+<img width="1918" height="967" alt="simon" src="https://github.com/user-attachments/assets/4ab8647c-74e9-463d-b842-bfa8306dcdb1" />
+
